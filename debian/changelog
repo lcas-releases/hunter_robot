@@ -1,0 +1,17 @@
+ros-humble-hunter-description (0.0.1-1jammy) jammy; urgency=high
+
+  * Merge pull request #9 <https://github.com/LCAS/hunter_robot/issues/9> from hariharan20/main
+    Tf fix and package.xml update
+  * package.xml update
+  * removed controller and fix tf
+  * Merge pull request #6 <https://github.com/LCAS/hunter_robot/issues/6> from PabloEspejeLS/main
+    adding hunter robot package
+  * adding hunter robot package
+  * Merge pull request #2 <https://github.com/LCAS/hunter_robot/issues/2> from PabloEspejeLS/main
+    First Commit
+  * First Commit
+  * Contributors: Geesara Prathap Kulathunga, PabloEspejeLS, hariharan20, “PabloEspejeLS”
+
+ -- ibrahim <ihroob@lincoln.ac.uk>  Mon, 25 Nov 2024 00:00:00 -0000
+
+
